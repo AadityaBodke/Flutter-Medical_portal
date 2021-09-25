@@ -1,0 +1,4 @@
+#Sun Sep 19 15:57:45 IST 2021
+base.0=D\:\\GENERA\\Flutter-Medical_portal-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
