@@ -3,8 +3,6 @@ import 'package:http/http.dart' as http;
 import 'package:flutter/material.dart';
 
 class Server {
-  final String url = "http://localhost:3000";
-
   static Image fetchImage(String id, int index) {
     //final uri = Uri.http('localhost:3000', '/image', {name: name});
     Uri imageUri = Uri.parse('http://192.168.1.22:3000/image/$id/$index');
