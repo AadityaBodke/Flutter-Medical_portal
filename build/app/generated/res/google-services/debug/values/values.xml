@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">650314524261-q8femojoa15kqj195aajjo5u4cb34dh8.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://genera-test-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">650314524261</string>
+    <string name="google_api_key" translatable="false">AIzaSyCCc4ksYTFc0Jp-ZEtW414lD_SSpj1yYf0</string>
+    <string name="google_app_id" translatable="false">1:650314524261:android:2a0ff523558090f22b488c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCCc4ksYTFc0Jp-ZEtW414lD_SSpj1yYf0</string>
+    <string name="google_storage_bucket" translatable="false">genera-test.appspot.com</string>
+    <string name="project_id" translatable="false">genera-test</string>
+</resources>
